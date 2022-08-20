@@ -1,6 +1,6 @@
 # Paytm Landing Page Clone
 
-##### Published Url:-[Paytm Home Page](https://mellow-griffin-2f3f27.netlify.app/)
+##### Published Url:-[Paytm Home Page](https://heartfelt-pie-74d96b.netlify.app/)
 
 
 <img src="https://github.com/sirugudipraveen3637/ProductDesignLandingPage_15/blob/main/15.png" height="60%" width="75%"/>
