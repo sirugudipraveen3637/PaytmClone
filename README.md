@@ -3,7 +3,7 @@
 ##### Published Url:-[Paytm Home Page](https://heartfelt-pie-74d96b.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/ProductDesignLandingPage_15/blob/main/15.png" height="60%" width="75%"/>
+<img src="https://github.com/sirugudipraveen3637/PaytmClone/blob/main/paytm.png" height="50%" width="100%"/>
 
 
 ### Knowledge Gained:-
